@@ -14,7 +14,7 @@ print(
 
 balance = 1000
 count = 0
-code = "*555#"
+code = "*556#"
 
 while True:
     user = input("Enter the pin here:")
