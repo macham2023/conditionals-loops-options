@@ -10,7 +10,7 @@ print(
 |==========================|
  '''
 )
-
+print("Enter *556# to continue")
 
 balance = 1000
 count = 0
@@ -152,7 +152,7 @@ while True:
         else:
             print("Invalid option")
            
-        break
+       
     else:
         print("Invalid pin")
-    count += 1
+count += 1
